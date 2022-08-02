@@ -4,105 +4,105 @@
             {
                 "name":"Ganesh",
                 "surname":"Alumuri",
-                "id":10939239234,
+                "id":1000100,
                 "reason":"Alleged breach of Company Policy",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Brian",
                 "surname":"Brian",
-                "id":9e0170391232,
+                "id":1000101,
                 "reason":"Alleged found under the influence of alcohol",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Selephi",
                 "surname":"Themba",
-                "id":9e0170391232,
+                "id":1000102,
                 "reason":"Alleged intimidation of workers",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Pleter",
                 "surname":"Nagel",
-                "id":9e0170391232,
+                "id":1000103,
                 "reason":"Alleged breach of Company Procedures",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Daniel",
                 "surname":"Purchase",
-                "id":9e0170391232,
+                "id":1000104,
                 "reason":"Alleged involvement in criminal activities on/off",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Jonro",
                 "surname":"Beukes",
-                "id":9e0170391232,
+                "id":1000105,
                 "reason":"Dimissed - RAT",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Johan",
                 "surname":"Grobbelaar",
-                "id":9e0170391232,
+                "id":1000106,
                 "reason":"Alleged intimidation of workers",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Ashley",
                 "surname":"Dyers",
-                "id":9e0170391232,
+                "id":1000107,
                 "reason":"Dimissed - RAT",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Noelene",
                 "surname":"Nkosli",
-                "id":9e0170391232,
+                "id":1000108,
                 "reason":"Alleged intimidation of workers",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Handson",
                 "surname":"Nkosi",
-                "id":9e0170391232,
+                "id":1000109,
                 "reason":"Alleged breach of Company Policy",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Arnaldo",
                 "surname":"Classen",
-                "id":9e0170391232,
+                "id":1000110,
                 "reason":"Alleged found under the influence of alcohol",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Sraddha",
                 "surname":"Atyam",
-                "id":9e0170391232,
+                "id":1000111,
                 "reason":"Contractor Non Compliance",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Bala",
                 "surname":"Shekhar",
-                "id":9e0170391232,
+                "id":1000112,
                 "reason":"Contractor Non Compliance",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Chandra",
                 "surname":"Mouli",
-                "id":9e0170391232,
+                "id":1000113,
                 "reason":"Resignation to avoid dismissal",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
             {
                 "name":"Suryanarayan",
                 "surname":"Reddy",
-                "id":9e0170391232,
+                "id":1000114,
                 "reason":"Dimissed - RAT",
                 "Createddate":"2/08/2022 12:30:26 PM"
             }
