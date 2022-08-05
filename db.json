@@ -5,6 +5,7 @@
                 "name":"Ganesh",
                 "surname":"Alumuri",
                 "id":1000100,
+                "NameOfDepot":"TBL Dar es Salaam Plant",
                 "reason":"Alleged breach of Company Policy",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -12,6 +13,7 @@
                 "name":"Brian",
                 "surname":"Brian",
                 "id":1000101,
+                "NameOfDepot":"Aliwal North",
                 "reason":"Alleged found under the influence of alcohol",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -19,6 +21,7 @@
                 "name":"Selephi",
                 "surname":"Themba",
                 "id":1000102,
+                "NameOfDepot":"Alrode Brewery",
                 "reason":"Alleged intimidation of workers",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -26,6 +29,7 @@
                 "name":"Pleter",
                 "surname":"Nagel",
                 "id":1000103,
+                "NameOfDepot":"Alrode Depot",
                 "reason":"Alleged breach of Company Procedures",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -33,6 +37,7 @@
                 "name":"Daniel",
                 "surname":"Purchase",
                 "id":1000104,
+                "NameOfDepot":"Baragwanath"
                 "reason":"Alleged involvement in criminal activities on/off",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -40,6 +45,7 @@
                 "name":"Jonro",
                 "surname":"Beukes",
                 "id":1000105,
+                "NameOfDepot":"Bellville",
                 "reason":"Dimissed - RAT",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -47,6 +53,7 @@
                 "name":"Johan",
                 "surname":"Grobbelaar",
                 "id":1000106,
+                "NameOfDepot":"Louis Venter",
                 "reason":"Alleged intimidation of workers",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -54,6 +61,7 @@
                 "name":"Ashley",
                 "surname":"Dyers",
                 "id":1000107,
+                "NameOfDepot":"Bloemfontein"
                 "reason":"Dimissed - RAT",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -61,6 +69,7 @@
                 "name":"Noelene",
                 "surname":"Nkosli",
                 "id":1000108,
+                "NameOfDepot":"Butterworth",
                 "reason":"Alleged intimidation of workers",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -68,6 +77,7 @@
                 "name":"Handson",
                 "surname":"Nkosi",
                 "id":1000109,
+                "NameOfDepot":"Central office",
                 "reason":"Alleged breach of Company Policy",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -75,6 +85,7 @@
                 "name":"Arnaldo",
                 "surname":"Classen",
                 "id":1000110,
+                "NameOfDepot":"Chamdor Brewery",
                 "reason":"Alleged found under the influence of alcohol",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -82,6 +93,7 @@
                 "name":"Sraddha",
                 "surname":"Atyam",
                 "id":1000111,
+                "NameOfDepot":"Chamdor Depot",
                 "reason":"Contractor Non Compliance",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -89,6 +101,7 @@
                 "name":"Bala",
                 "surname":"Shekhar",
                 "id":1000112,
+                "NameOfDepot":"Coleus Packinging",
                 "reason":"Contractor Non Compliance",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -96,6 +109,7 @@
                 "name":"Chandra",
                 "surname":"Mouli",
                 "id":1000113,
+                "NameOfDepot":"Denver",
                 "reason":"Resignation to avoid dismissal",
                 "Createddate":"2/08/2022 12:30:26 PM"
             },
@@ -103,6 +117,7 @@
                 "name":"Suryanarayan",
                 "surname":"Reddy",
                 "id":1000114,
+                "NameOfDepot":"Denver",
                 "reason":"Dimissed - RAT",
                 "Createddate":"2/08/2022 12:30:26 PM"
             }
